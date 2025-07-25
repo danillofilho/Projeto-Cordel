@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=danillofilho&show_icons=true
+<a href="https://github-readme-stats.vercel.app/api?username=danillofilho&show_icons=true"></a>
